@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "talentstride-demo"
-version = "0.0.0"
+version = "0.0.1"
 description = "Your dedicated companion for mastering non-technical interviews. Elevate your career prospects with personalized AI coaching and ace HR interviews confidently."
 authors = ["Abdulazeez Jimoh <abdulazeezojimoh@gmail.com>"]
 readme = "README.md"
